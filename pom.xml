@@ -72,7 +72,7 @@
 
         <flink.version>1.4.2</flink.version>
         <guava.version>16.0</guava.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
 
         <serviceframework.version>2.0.0</serviceframework.version>
         <scope>provided</scope>
